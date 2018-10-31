@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Import/_Complete-Game/Scenes/Main.unity
+  isLoaded: 1
+  isActive: 1
