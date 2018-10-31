@@ -20,15 +20,25 @@ ik wil bereiken dat ik een werkende code heb voor een random dungeon zodat ik al
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 week 1:
+
 Maandag: op zoek naar een proefopdarcht
+
 dinsdag: de proefopdracht onderzoeken opzoek naar tutorials
+
 woensdag: de tutorials bekijken en implementeren
+
 donderdag: de turotails bekijken en implementeren
+
 vrijdag: de eerste versie af en vanaf dan uitbreiden
+
 vakantie: veder met het uitbreiden van de proefopdracht
+
 week 2:
+
 maandag: oplossen van enige bugs die er nog zijn
+
 dinsdag: het spel finaliseren en op github zetten
+
 woensdag: het spel inleveren
 
 ## Bronnen
