@@ -2,7 +2,6 @@
 ik heb hier een 2D dungeon generator gemaakt ik daarvoor alleen art uit de Unity Asset store gehaald
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
 het is me gelukt om dungeon constant random te maken en je kan zelf ook de verschillende atributten aanpassen de breedte de hoogte de hoeveelheid en de lengte van de gangen tussen de kamers
 
